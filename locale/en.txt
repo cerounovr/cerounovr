@@ -14,7 +14,8 @@ WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/
 HotspotPanoramaOverlayTextImage_D88DDD6D_CD7C_093B_41DE_472D342610CB.text = Amenities
 HotspotPanoramaOverlayTextImage_DB19CC97_CD7C_0F17_41D8_6444BEAB9C8A.text = Dpto 1D
 HotspotPanoramaOverlayTextImage_D88A3B8D_CD74_09FA_41D5_8F8C6C2D9FAF.text = Dpto 1D+
-HotspotPanoramaOverlayTextImage_D338BA08_CD2C_0AF9_41E9_14C9BF9BBF8F.text = Este es un tour de muestra. Las imágenes fueron amplificadas al 200% logrando una mayor resolución. Los colores están ligeramente amplificados así como los tonos. Los detalles en cada perspectiva fueron mejorados sustancialmente y fue añadido el logo de 01 Sync.
+HotspotPanoramaOverlayTextImage_D338BA08_CD2C_0AF9_41E9_14C9BF9BBF8F.text = El tour está hosteado en un servidor de alta disponibilidad para minimizar tiempos de espera para los posibles compradores interesados.
+HotspotPanoramaOverlayTextImage_D31E7F55_CDEC_096B_41D8_B088E72AD0E5.text = Este es un tour de muestra. Las imágenes fueron amplificadas al 200% logrando una mayor resolución. Los colores están ligeramente amplificados así como los tonos. Los detalles en cada perspectiva fueron mejorados sustancialmente y fue añadido el logo de 01 Sync.
 HotspotPanoramaOverlayTextImage_DBFDAE1C_CD7C_0B19_41E6_5C468372DE61.text = Monoambiente
 HotspotPanoramaOverlayTextImage_D722BF5C_CD54_0919_41E6_BF39A6BC1F28.text = Para hacerlo más ameno e interesante para quienes lo visitan, se podría agregar un bossa nova de fondo al 40% del volúmen o bien un audio que vaya hablando acerca del edificio y sus características más resaltantes. > \
 Opcionalmente se puede configurar para su reproducción al ingreso de cada área.
@@ -31,9 +32,10 @@ imlevel_D44A39B7_CD74_0917_41DE_49E58389313C.url = media/panorama_DF651ED7_CC4F_
 imlevel_D4483962_CD74_0929_41E6_34D31FE04BF2.url = media/panorama_DF651ED7_CC4F_381D_41DA_9795ECF2129F_HS_4qqzaira_en.png
 imlevel_D5D29851_CD74_176B_41CA_550E39A12E4F.url = media/panorama_DF651ED7_CC4F_381D_41DA_9795ECF2129F_HS_gze1nl66_en.png
 imlevel_D32AD285_CD34_1BEB_41DF_C5D66CDA325C.url = media/panorama_DF651ED7_CC4F_381D_41DA_9795ECF2129F_HS_ij2grslc_en.png
-imlevel_D353D3B1_CD34_792B_41BC_B346788C9DDA.url = media/panorama_DF651ED7_CC4F_381D_41DA_9795ECF2129F_HS_pfnw8zcw_en.png
+imlevel_ED3E90A4_CDEC_7729_41D7_9C4E337DAF52.url = media/panorama_DF651ED7_CC4F_381D_41DA_9795ECF2129F_HS_pfnw8zcw_en.png
 imlevel_D456A90A_CD74_16F9_41E1_28E5116DD803.url = media/panorama_DF651ED7_CC4F_381D_41DA_9795ECF2129F_HS_qmr4rals_en.png
 imlevel_D45778AC_CD74_1739_41B1_6B21F83F88F8.url = media/panorama_DF651ED7_CC4F_381D_41DA_9795ECF2129F_HS_xha0112c_en.png
+imlevel_EFB8924F_CDEC_7B77_41DD_2D965107BC19.url = media/panorama_DF651ED7_CC4F_381D_41DA_9795ECF2129F_HS_y2r7f7xt_en.png
 
 ### Title
 panorama_DFE4BD90_CC41_1813_41E8_221FD513AA37.label = Amenities
